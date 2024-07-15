@@ -2,7 +2,7 @@
     "name": "marchey/customwork_limit",
     "description": "Magento has a limitation of 10,000 products assigned to one category Magento has also configuration value devoted for how much products should be displayed on Search/Advanced Search/Category page It could be found in CatalogSearch/etc/search_request.xml",
     "type": "magento2-module",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "stability": "stable",
     "license": [
         "MIT"
